@@ -1,2 +1,2 @@
-# easy-sprites
-A vue plugin for making a sprites animation
+# easy-sprite
+A vue plugin for making a sprite animation
